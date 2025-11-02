@@ -19,5 +19,7 @@ Um bot automatizado para WhatsApp que gerencia reservas de quartos e espaços at
 ### Instalação
 
 
-npm install
-npm start
+- npm install
+
+- npm start
+- npm install whatsapp-web.js qrcode-terminal fs path
